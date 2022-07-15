@@ -1,4 +1,4 @@
-# Angular 13
+# About Project
 
 This Sample CRUD project is developed in Angualar 13 and Bootstrap is used for styling purpose, and it uses NgRx State Management and includes all important libraries and concepts of NgRx. like (Actions , Reducers, Store, Effects, Entity , Router Store, Dev-Tools)
 
