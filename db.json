@@ -1,0 +1,32 @@
+{
+  "customers": [
+    {
+      "name": "ahsan usman",
+      "phone": "03105054604",
+      "address": "abbottabad",
+      "membership": "gold",
+      "id": 1
+    },
+    {
+      "name": "haseeb awais",
+      "phone": "03147714171",
+      "address": "lahore",
+      "membership": "silver",
+      "id": 2
+    },
+    {
+      "name": "Hasan Sultan",
+      "phone": "03147714171",
+      "address": "Lahore",
+      "membership": "Platinum",
+      "id": 3
+    },
+    {
+      "name": "Aflatoon khan",
+      "phone": "03005544666",
+      "address": "Uganda",
+      "membership": "Platinum",
+      "id": 4
+    }
+  ]
+}
